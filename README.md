@@ -91,6 +91,6 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Contact
-For any questions or feedback, please open an issue or contact [your-email@example.com].
+For any questions or feedback, please open an issue or contact bushraalvi3113@gmail.com.
 
 Feel free to customize this README to better fit the specifics of your admin dashboard project.
